@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mahs_270: MyString
+  hoten_270: MyString
+  lop_270: MyString
+  masach_270: MyString
+  tensach_270: MyString
+  tentacgia_270: MyString
+  soBM_270: MyString
+  ngaymuon_270: 2022-11-04
+  ngaytra_270: 2022-11-04
+  ghichu_270: MyText
+
+two:
+  mahs_270: MyString
+  hoten_270: MyString
+  lop_270: MyString
+  masach_270: MyString
+  tensach_270: MyString
+  tentacgia_270: MyString
+  soBM_270: MyString
+  ngaymuon_270: 2022-11-04
+  ngaytra_270: 2022-11-04
+  ghichu_270: MyText
